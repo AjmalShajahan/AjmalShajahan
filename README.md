@@ -21,3 +21,8 @@ Here are some ideas to get you started:
 ### Stats ⚡️
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AjmalShajahan&show_icons=true&title_color=0088CC&icon_color=0088CC&include_all_commits=true&theme=dark&cache_seconds=86400@count_private=true)
+
+
+
+### Top Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjmalShajahan)
