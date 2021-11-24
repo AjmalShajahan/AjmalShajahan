@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ## 📊 Stats
 
 
-<img align="left" width="390" alt="🦑" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.svg">
+<img align="left" width="390" alt="" src="https://github.com/AjmalShajahan/AjmalShajahan/blob/master/metrics.svg">
 
 
-<img align="left" width="390" alt="🦑" src="https://github.com/lowlighter/lowlighter/blob/master/achievements.svg">
+<img align="left" width="390" alt="" src="https://github.com/AjmalShajahan/AjmalShajahan/blob/master/achievements.svg">
