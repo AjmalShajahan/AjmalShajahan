@@ -35,6 +35,11 @@ Here are some ideas to get you started:
 
 ### Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjmalShajahan&show_icons=true&title_color=0088CC&icon_color=0088CC&ring=0088CC&fire=e25822&include_all_commits=true&theme=dracula&cache_seconds=86400&count_private=true&layout=compact&langs_count=10)
--->
+
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AjmalShajahan&title_color=0088CC&icon_color=0088CC&theme=dracula&layout=compact)
+-->
+
+## 📊 Stats
+
+![Metrics](https://github.com/AjmalShajahan/AjmalShajahan/raw/dev/github-metrics.svg)
