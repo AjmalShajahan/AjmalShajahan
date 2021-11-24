@@ -43,3 +43,8 @@ Here are some ideas to get you started:
 ## 📊 Stats
 
 ![Metrics](https://github.com/AjmalShajahan/AjmalShajahan/raw/dev/metrics.svg)
+
+
+### Listening to 🎶
+
+![Spotify](https://ajmal-spotify-readme.vercel.app/api?theme=dark&spin=true&scan=true&rainbow=true)
