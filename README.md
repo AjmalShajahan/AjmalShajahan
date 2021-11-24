@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **AjmalShajahan/AjmalShajahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,4 +42,8 @@ Here are some ideas to get you started:
 
 ## 📊 Stats
 
-![Metrics](https://github.com/AjmalShajahan/AjmalShajahan/raw/dev/github-metrics.svg)
+
+<img align="left" width="390" alt="🦑" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.svg">
+
+
+<img align="left" width="390" alt="🦑" src="https://github.com/lowlighter/lowlighter/blob/master/achievements.svg">
