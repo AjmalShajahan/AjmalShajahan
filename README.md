@@ -42,8 +42,4 @@ Here are some ideas to get you started:
 
 ## 📊 Stats
 
-
-<img align="left" width="390" alt="" src="https://github.com/AjmalShajahan/AjmalShajahan/blob/dev/metrics.svg">
-
-
-<img align="right" width="390" alt="" src="https://github.com/AjmalShajahan/AjmalShajahan/blob/dev/achievements.svg">
+![Metrics](https://github.com/AjmalShajahan/AjmalShajahan/raw/dev/metrics.svg)
