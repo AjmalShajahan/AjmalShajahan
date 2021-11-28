@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there <img src="https://raw.githubusercontent.com/AjmalShajahan/AjmalShajahan/dev/wave.gif" width="30px">
+
 
 <!--
 **AjmalShajahan/AjmalShajahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +19,7 @@ Here are some ideas to get you started:
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAjmalShajahan&count_bg=%230088CC&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true)
 
 
+<!--
 ### Trophies 🏆
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=AjmalShajahan&theme=dracula)
@@ -37,5 +39,13 @@ Here are some ideas to get you started:
 
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AjmalShajahan&title_color=0088CC&icon_color=0088CC&theme=dracula&layout=compact)
+-->
+
+## 📊 Stats
+
+![Metrics](https://github.com/AjmalShajahan/AjmalShajahan/raw/dev/metrics.svg)
 
 
+### Listening to 🎶
+
+![Spotify](https://ajmal-spotify-readme.vercel.app/api?theme=dark&spin=true&scan=true&rainbow=true)
