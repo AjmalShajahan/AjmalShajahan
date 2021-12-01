@@ -1681,8 +1681,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="456.1058506302126" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="456.1058506302126" y="0" width="3.894149369787421" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="456.103407165715" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="456.103407165715" y="0" width="3.896592834284997" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1694,7 +1694,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>516 lines</div>
+                                <div>515 lines</div>
                                 <div>99.15%</div>
                             </small>
                         </div>
@@ -3463,7 +3463,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Dec 2021, 22:59:33 (timezone Asia/Kolkata) with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 1 Dec 2021, 23:56:03 (timezone Asia/Kolkata) with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
