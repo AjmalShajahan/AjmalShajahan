@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ## 📊 Stats
 
-![Metrics](https://github.com/AjmalShajahan/AjmalShajahan/raw/dev/metrics.svg)
+![Metrics](https://github.com/AjmalShajahan/AjmalShajahan/raw/main/metrics.svg)
 
 
 ### Listening to 🎶
