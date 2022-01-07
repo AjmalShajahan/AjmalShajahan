@@ -2,14 +2,14 @@ name: Metrics
 on:
   schedule:
     - cron: "0 * * * *"
-  push: {branches: ["main", "dev"]}
+  push: {branches: ["main"]}
   workflow_dispatch:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
       - name: Metrics
-        uses: AjmalShajahan/metrics@latest
+        uses: AjmalShajahan/metrics@master
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
