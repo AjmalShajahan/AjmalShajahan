@@ -288,7 +288,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 2 edited files from 5 commits over last 8 days</small>
+                <small>estimation from 2 edited files from 5 commits over last 9 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1370,23 +1370,13 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">conf</span>
-                                <div class="bar" style="width: 44.984%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">56%</span>
+                                <div class="bar" style="width: 56.8%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">71%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">sh</span>
-                                <div class="bar" style="width: 18.375999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">23%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">JSON</span>
-                                <div class="bar" style="width: 10%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">13%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 5.943999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">7%</span>
+                                <div class="bar" style="width: 23.2%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">29%</span>
                             </div>
                         </div>
                     </section>
@@ -2023,7 +2013,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Jan 2022, 00:42:42 (timezone Asia/Kolkata) with lowlighter/metrics@3.18.0-beta</span>
+                <span>Last updated 16 Jan 2022, 01:46:28 (timezone Asia/Kolkata) with lowlighter/metrics@3.18.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
