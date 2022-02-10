@@ -220,17 +220,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 187 edited files from 101 commits</small>
+                <small>estimation from 176 edited files from 58 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="426.7494101721137" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="426.7494101721137" y="0" width="24.877006381744344" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="451.62641655385806" y="0" width="7.20112163991491" height="8" fill="#199f4b"/>
-                    <rect mask="url(#languages-bar)" x="458.8275381937729" y="0" width="1.1386578998259524" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.96619609359885" y="0" width="0.03380390640108296" height="8" fill="#3B2F63"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="426.44268774703556" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="426.44268774703556" y="0" width="25.121272008623787" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="451.56395975565937" y="0" width="7.2718289615522815" height="8" fill="#199f4b"/>
+                    <rect mask="url(#languages-bar)" x="458.8357887172117" y="0" width="1.1498383039885016" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.9856270212002" y="0" width="0.01437297879985627" height="8" fill="#3B2F63"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -242,8 +242,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>13.7k lines</div>
-                                <div>92.77%</div>
+                                <div>13.6k lines</div>
+                                <div>92.7%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -255,7 +255,7 @@
                             </div>
                             <small>
                                 <div>263 lines</div>
-                                <div>1.57%</div>
+                                <div>1.58%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -266,8 +266,8 @@
                                 Procfile
                             </div>
                             <small>
-                                <div>2 lines</div>
-                                <div>0.01%</div>
+                                <div>1 line</div>
+                                <div>0%</div>
                             </small>
                         </div>
                     </section>
@@ -281,7 +281,7 @@
                             </div>
                             <small>
                                 <div>974 lines</div>
-                                <div>5.41%</div>
+                                <div>5.46%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2063,7 +2063,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Feb 2022, 21:56:21 (timezone Asia/Kolkata) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 10 Feb 2022, 22:49:36 (timezone Asia/Kolkata) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
