@@ -1,21 +1,6 @@
 ### Hello there <img src="https://raw.githubusercontent.com/AjmalShajahan/AjmalShajahan/main/wave.gif" width="30px">
 
 
-<!--
-**AjmalShajahan/AjmalShajahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAjmalShajahan&count_bg=%230088CC&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true)
 
 
@@ -45,7 +30,8 @@ Here are some ideas to get you started:
 
 ![Metrics](https://github.com/AjmalShajahan/AjmalShajahan/raw/main/metrics.svg)
 
-
+<!--
 ### Listening to 🎶
 
 ![Spotify](https://ajmal-spotify-readme.vercel.app/api?theme=dark&spin=true&scan=true&rainbow=true)
+-->
