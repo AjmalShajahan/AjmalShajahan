@@ -19,10 +19,10 @@ jobs:
           plugin_languages: yes
           plugin_languages_details: lines, percentage
           plugin_languages_sections: most-used, recently-used
-          plugin_languages_indepth: yes
-          plugin_languages_limit: 10
-          plugin_languages_recent_days: 7
-          plugin_languages_recent_load: 500
+          plugin_languages_indepth: true
+          plugin_languages_limit: 8
+          plugin_languages_recent_days: 365
+          plugin_languages_recent_load: 1000
           plugin_lines: yes
           plugin_achievements: yes
           plugin_achievements_display: compact
