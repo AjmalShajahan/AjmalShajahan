@@ -324,7 +324,7 @@
                 <h3 class="field">Recently used languages</h3>
                 <small>No recent push activity found
                 
-                  over last 7 days</small>
+                  over last 5 days</small>
                 <div class="row fill-width">
                     <section>
                     </section>
@@ -2099,7 +2099,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Jul 2022, 12:45:47 (timezone Asia/Kolkata) with lowlighter/metrics@3.27.0-beta</span>
+                <span>Last updated 19 Jul 2022, 13:51:14 (timezone Asia/Kolkata) with lowlighter/metrics@3.27.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
