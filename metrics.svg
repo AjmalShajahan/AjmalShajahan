@@ -324,7 +324,7 @@
                 <h3 class="field">Recently used languages</h3>
                 <small>No recent push activity found
                 
-                  over last 7 days</small>
+                  over last 6 days</small>
                 <div class="row fill-width">
                     <section>
                     </section>
@@ -1536,7 +1536,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 271k out of 95m users</span>
+                                    <span class="gh">ranked 272k out of 95m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">69</div>
                                     </div>
@@ -2114,7 +2114,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Jul 2022, 20:47:29 (timezone Asia/Kolkata) with lowlighter/metrics@3.27.0-beta</span>
+                <span>Last updated 28 Jul 2022, 21:57:16 (timezone Asia/Kolkata) with lowlighter/metrics@3.27.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
