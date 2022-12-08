@@ -51,4 +51,5 @@ jobs:
           plugin_habits_from: 1000
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
+          plugin_licenses: no
           output_action: pull-request-squash
