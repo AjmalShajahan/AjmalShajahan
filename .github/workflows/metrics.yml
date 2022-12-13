@@ -13,7 +13,7 @@ jobs:
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
+          base: header
           config_timezone: Asia/Kolkata
           plugin_isocalendar: yes
           plugin_languages: yes
