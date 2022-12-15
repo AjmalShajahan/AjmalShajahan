@@ -1,4 +1,4 @@
-### Hello there <img src="https://raw.githubusercontent.com/AjmalShajahan/AjmalShajahan/main/wave.gif" width="30px">
+<!-- ### Hello there <img src="https://raw.githubusercontent.com/AjmalShajahan/AjmalShajahan/main/wave.gif" width="30px"> -->
 
 
 
