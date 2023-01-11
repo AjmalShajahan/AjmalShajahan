@@ -38,7 +38,7 @@ jobs:
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: .user.login
           config_twemoji: yes
-#           plugin_code: yes
+          plugin_code: yes
           plugin_code_days: 7
           plugin_code_lines: 128
           plugin_code_load: 1000
