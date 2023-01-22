@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1101,14 +1101,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="192.7581353945298" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="192.7581353945298" y="0" width="130.93731781167133" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="323.69545320620114" y="0" width="50.72734282436575" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="374.4227960305669" y="0" width="33.01656855923119" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="407.43936458979806" y="0" width="21.559030585698256" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="428.99839517549634" y="0" width="21.267780013666084" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="450.2661751891624" y="0" width="5.8257323579009395" height="8" fill="#199f4b"/>
-                    <rect mask="url(#languages-bar)" x="456.09190754706333" y="0" width="3.9080924529366405" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="192.45350391027185" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="192.45350391027185" y="0" width="131.45736254588584" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="323.9108664561577" y="0" width="50.64717424571967" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="374.55804070187736" y="0" width="32.96438976913905" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="407.52243047101643" y="0" width="21.524959082189252" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="429.0473895532056" y="0" width="21.234168797313664" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="450.28155835051933" y="0" width="5.81652547544462" height="8" fill="#199f4b"/>
+                    <rect mask="url(#languages-bar)" x="456.09808382596395" y="0" width="3.9019161740360455" height="8" fill="#000080"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1120,7 +1120,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>41.9%</div>
+                                <div>41.84%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1131,7 +1131,7 @@
                                 CSS
                             </div>
                             <small>
-                                <div>11.03%</div>
+                                <div>11.01%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1142,7 +1142,7 @@
                                 Dart
                             </div>
                             <small>
-                                <div>4.69%</div>
+                                <div>4.68%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1153,7 +1153,7 @@
                                 Vim Script
                             </div>
                             <small>
-                                <div>1.27%</div>
+                                <div>1.26%</div>
                             </small>
                         </div>
                     </section>
@@ -1166,7 +1166,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>28.46%</div>
+                                <div>28.58%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1177,7 +1177,7 @@
                                 Shell
                             </div>
                             <small>
-                                <div>7.18%</div>
+                                <div>7.17%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1505,7 +1505,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="111.3819095477387 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="113.71859296482411 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1533,10 +1533,10 @@
                                     <span class="prefix"></span>
                                     Contributor
                                     <div class="value-wrapper">
-                                        <div class="value">144</div>
+                                        <div class="value">147</div>
                                     </div>
                                 </div>
-                                <div class="text">Opened 144 pull requests</div>
+                                <div class="text">Opened 147 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1898,7 +1898,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.14m out of 371m repositories</span>
+                                    <span class="gh">ranked 4.27m out of 371m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
