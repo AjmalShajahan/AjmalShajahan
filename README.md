@@ -31,8 +31,8 @@
 
 ![Metrics](https://github.com/AjmalShajahan/AjmalShajahan/raw/main/metrics.svg)
 
-<!--
+
 ### Listening to 🎶
 
 ![Spotify](https://ajmal-spotify-readme.vercel.app/api?theme=dark&spin=true&scan=true&rainbow=true)
--->
+
