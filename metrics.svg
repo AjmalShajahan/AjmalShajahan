@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1060" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1103" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1103,7 +1103,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 317kb of code in 187 edited files across 170 commits</small>
+                <small>estimation from 317kb of code in 188 edited files across 171 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1179,6 +1179,16 @@
                                 <div>0.23%</div>
                             </small>
                         </div>
+                    </section>
+                </div>
+            </section>
+            <section class="column">
+                <h3 class="field">Recently used languages</h3>
+                <small>No recent push activity found</small>
+                <div class="row fill-width">
+                    <section>
+                    </section>
+                    <section>
                     </section>
                 </div>
             </section>
@@ -1890,7 +1900,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.34m out of 376m repositories</span>
+                                    <span class="gh">ranked 4.14m out of 376m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
