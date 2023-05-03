@@ -6,9 +6,7 @@
 
 ### Coding time
 ![](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/AjmalShajahan/interval:today&label=today&style=plastic)
-
 ![](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/AjmalShajahan/interval:7_days&label=last%207d&style=plastic)
-
 ![](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/AjmalShajahan/interval:30_days&label=last%2030d&style=plastic)
 
 <!--
