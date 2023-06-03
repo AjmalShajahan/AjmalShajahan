@@ -43,4 +43,3 @@ jobs:
           config_twemoji: yes   
           #output_action: pull-request-squash
           output_action: gist
-          plugins_errors_fatal: disabled
