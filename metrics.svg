@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="976" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1020" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1213,6 +1213,16 @@
                     </section>
                 </div>
             </section>
+            <section class="column">
+                <h3 class="field">Recently used languages</h3>
+                <small>No recent push activity found</small>
+                <div class="row fill-width">
+                    <section>
+                    </section>
+                    <section>
+                    </section>
+                </div>
+            </section>
             <section>
                 <h2 class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1896,7 +1906,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.72m out of 409m repositories</span>
+                                    <span class="gh">ranked 4.70m out of 409m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
