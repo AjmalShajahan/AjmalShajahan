@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 47 repositories
+                            Contributed to 46 repositories
                         </div>
                     </section>
                 </div>
@@ -1118,17 +1118,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 317kb of code in 205 edited files across 195 commits</small>
+                <small>estimation from 315kb of code in 201 edited files across 186 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="258.8059494022797" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="258.8059494022797" y="0" width="114.90408673894913" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="373.7100361412288" y="0" width="84.40366972477065" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="458.11370586599946" y="0" width="1.1509591326105086" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="459.26466499861" y="0" width="0.7353350013900473" height="8" fill="#3B2F63"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="242.967461388514" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="242.967461388514" y="0" width="123.94961763382815" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="366.9170790223422" y="0" width="91.04813315339632" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="457.9652121757385" y="0" width="1.2415654520917678" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="459.20677762783026" y="0" width="0.7932223721697406" height="8" fill="#3B2F63"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1140,9 +1140,9 @@
                                 Vim Script
                             </div>
                             <small>
-                                <div>263 lines</div>
-                                <div>8.10 kB</div>
-                                <div>56.26%</div>
+                                <div>236 lines</div>
+                                <div>7.04 kB</div>
+                                <div>52.82%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1155,7 +1155,7 @@
                             <small>
                                 <div>138 lines</div>
                                 <div>3.59 kB</div>
-                                <div>24.98%</div>
+                                <div>26.95%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1168,7 +1168,7 @@
                             <small>
                                 <div>98 lines</div>
                                 <div>2.64 kB</div>
-                                <div>18.35%</div>
+                                <div>19.79%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1181,7 +1181,7 @@
                             <small>
                                 <div>1 line</div>
                                 <div>36 bytes</div>
-                                <div>0.25%</div>
+                                <div>0.27%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1194,7 +1194,7 @@
                             <small>
                                 <div>1 line</div>
                                 <div>23 bytes</div>
-                                <div>0.16%</div>
+                                <div>0.17%</div>
                             </small>
                         </div>
                     </section>
@@ -1463,7 +1463,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="87.83333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.66666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1488,12 +1488,12 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 987k out of 118m users</span>
+                                    <span class="gh">ranked 1.03m out of 118m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">37</div>
+                                        <div class="value">36</div>
                                     </div>
                                 </div>
-                                <div class="text">Published 37 public repositories</div>
+                                <div class="text">Published 36 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1899,7 +1899,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.46m out of 410m repositories</span>
+                                    <span class="gh">ranked 4.59m out of 410m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
