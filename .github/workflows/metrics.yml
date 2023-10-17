@@ -44,3 +44,4 @@ jobs:
           config_twemoji: yes   
           #output_action: pull-request-squash
           #output_action: gist
+          plugin_crypto: no
