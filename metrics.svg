@@ -1123,14 +1123,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="227.1851967346982" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="227.1851967346982" y="0" width="105.84900225421046" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="333.0341989889086" y="0" width="41.27689262505847" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="374.3110916139671" y="0" width="36.35357013554332" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="410.66466174951046" y="0" width="23.528618959152016" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="434.1932807086625" y="0" width="12.91733945026863" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="447.1106201589311" y="0" width="6.589958324854718" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="453.7005784837858" y="0" width="6.299421516214195" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="223.29294361803537" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="223.29294361803537" y="0" width="104.03554294946221" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="327.3284865674976" y="0" width="40.569715765495495" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="367.8982023329931" y="0" width="35.730742157771836" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="403.6289444907649" y="0" width="23.125514611726263" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="426.7544591024912" y="0" width="14.072452136239315" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="440.82691123873053" y="0" width="12.696032976709029" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="453.5229442154395" y="0" width="6.47705578456048" height="8" fill="#000080"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1143,7 +1143,7 @@
                             </div>
                             <small>
                                 <div>186 kB</div>
-                                <div>49.39%</div>
+                                <div>48.54%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1155,7 +1155,7 @@
                             </div>
                             <small>
                                 <div>33.9 kB</div>
-                                <div>8.97%</div>
+                                <div>8.82%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1167,19 +1167,19 @@
                             </div>
                             <small>
                                 <div>19.3 kB</div>
-                                <div>5.11%</div>
+                                <div>5.03%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Lua
+                                HTML
                             </div>
                             <small>
-                                <div>5.42 kB</div>
-                                <div>1.43%</div>
+                                <div>10.6 kB</div>
+                                <div>2.76%</div>
                             </small>
                         </div>
                     </section>
@@ -1193,7 +1193,7 @@
                             </div>
                             <small>
                                 <div>87 kB</div>
-                                <div>23.01%</div>
+                                <div>22.62%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1205,19 +1205,7 @@
                             </div>
                             <small>
                                 <div>29.9 kB</div>
-                                <div>7.9%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                HTML
-                            </div>
-                            <small>
-                                <div>10.6 kB</div>
-                                <div>2.81%</div>
+                                <div>7.77%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1228,8 +1216,20 @@
                                 Markdown
                             </div>
                             <small>
-                                <div>5.18 kB</div>
-                                <div>1.37%</div>
+                                <div>11.7 kB</div>
+                                <div>3.06%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Lua
+                            </div>
+                            <small>
+                                <div>5.42 kB</div>
+                                <div>1.41%</div>
                             </small>
                         </div>
                     </section>
@@ -1517,7 +1517,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.02m out of 124m users</span>
+                                    <span class="gh">ranked 1.02m out of 125m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">38</div>
                                     </div>
@@ -1579,7 +1579,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="84.12060301507537 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="85.67839195979899 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1601,10 +1601,10 @@
                                     <span class="prefix"></span>
                                     Deployer
                                     <div class="value-wrapper">
-                                        <div class="value">109</div>
+                                        <div class="value">111</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 109 times</div>
+                                <div class="text">Repositories have been deployed 111 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1689,7 +1689,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 880k out of 124m users</span>
+                                    <span class="gh">ranked 880k out of 125m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">15</div>
                                     </div>
@@ -1928,7 +1928,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.03m out of 45.6m repositories</span>
+                                    <span class="gh">ranked 5.03m out of 48.1m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
