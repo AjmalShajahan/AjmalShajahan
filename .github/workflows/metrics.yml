@@ -2,14 +2,14 @@ name: Metrics
 on:
   schedule:
     - cron: "0 * * * *"
-  push: {branches: ["main"]}
+  #push: {branches: ["main"]}
   workflow_dispatch:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
       - name: Metrics
-        uses: AjmalShajahan/metrics@master
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -50,7 +50,7 @@ jobs:
           plugin_music: yes
       
       - name: Spotify - Recently listened
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.music.recent.svg
           token: NOT_NEEDED
