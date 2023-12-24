@@ -34,6 +34,7 @@
 <!-- ## 📊 Stats -->
 
 ![Metrics](https://github.com/AjmalShajahan/AjmalShajahan/raw/main/metrics.svg)
+![Recent Music](https://github.com/AjmalShajahan/AjmalShajahan/raw/main/metrics.plugin.music.recent.svg)
 
 
 ### Listening to 🎶
