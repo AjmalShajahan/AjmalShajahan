@@ -32,7 +32,7 @@
 
 ![Metrics](https://github.com/AjmalShajahan/AjmalShajahan/raw/main/metrics.svg)
 
-![Spotify Playlist](https://github.com/AjmalShajahan/AjmalShajahan/raw/main/metrics.plugin.music.playlist.spotify.svg)
+<!-- ![Spotify Playlist](https://github.com/AjmalShajahan/AjmalShajahan/raw/main/metrics.plugin.music.playlist.spotify.svg) -->
 
 ![Recent Music](https://github.com/AjmalShajahan/AjmalShajahan/raw/main/metrics.plugin.music.recent.svg) ![Top Artist](https://github.com/AjmalShajahan/AjmalShajahan/raw/main/metrics.plugin.music.top.artist.svg)
 
