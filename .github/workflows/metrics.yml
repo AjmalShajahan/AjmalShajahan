@@ -44,7 +44,7 @@ jobs:
           config_twemoji: yes
           # output_action: pull-request-squash
           output_action: gist
-          commiter_gist: b0c135cb04bbdb9f310a6a5c96a83c73
+          committer_gist: b0c135cb04bbdb9f310a6a5c96a83c73
           plugin_crypto: no
           plugin_habits: yes
           plugin_notable: yes
