@@ -13,7 +13,7 @@ jobs:
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header
+          base: header, activity, community, repositories, metadata
           base_indepth: yes
           config_order: base.header, isocalendar, languages, wakatime, achievements
           config_timezone: Asia/Kolkata
@@ -25,10 +25,10 @@ jobs:
           # plugin_languages_ignored: C#,
           plugin_languages_threshold: 5
           plugin_languages_limit: 8
-          # plugin_languages_recent_days: 365
-          # plugin_languages_recent_load: 1000
-          # plugin_languages_analysis_timeout: 60
-          # plugin_languages_analysis_timeout_repositories: 15
+          plugin_languages_recent_days: 365
+          plugin_languages_recent_load: 1000
+          plugin_languages_analysis_timeout: 60
+          plugin_languages_analysis_timeout_repositories: 15
           commits_authoring: Ajmal, Ajmal S, AjmalShajahan, AjmalShajahan@users.noreply.github.com
           plugin_lines: yes
           plugin_achievements: yes
@@ -43,19 +43,21 @@ jobs:
           plugin_wakatime_user: .user.login
           config_twemoji: yes
           # output_action: pull-request-squash
-          # output_action: gist
+          output_action: gist
+          commiter_gist: b0c135cb04bbdb9f310a6a5c96a83c73
           plugin_crypto: no
           plugin_habits: yes
           plugin_notable: yes
 
-      # - name: Spotify - Random track from playlist
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     filename: metrics.plugin.music.playlist.spotify.svg
-      #     token: NOT_NEEDED
-      #     base: ""
-      #     plugin_music: yes
-      #     plugin_music_playlist: https://open.spotify.com/embed/playlist/37i9dQZF1Fa1IIVtEpGUcU
+      - name: Spotify - Random track from playlist
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.music.playlist.spotify.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_music: yes
+          plugin_music_playlist: https://open.spotify.com/embed/playlist/37i9dQZF1Fa1IIVtEpGUcU
+          
 
       - name: Spotify - Recently listened
         uses: lowlighter/metrics@master
