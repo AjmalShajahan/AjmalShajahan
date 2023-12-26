@@ -1,10 +1,11 @@
 <!-- ### Hello there <img src="https://raw.githubusercontent.com/AjmalShajahan/AjmalShajahan/main/wave.gif" width="30px"> -->
 
+<!-- ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAjmalShajahan&count_bg=%230088CC&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true) -->
 
+# Metrics
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAjmalShajahan&count_bg=%230088CC&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true)
+## Coding time
 
-### Coding time
 ![Today](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/AjmalShajahan/interval:today&label=today&style=plastic)
 ![7 Days](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/AjmalShajahan/interval:7_days&label=last%207d&style=plastic)
 ![30 Days](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/AjmalShajahan/interval:30_days&label=last%2030d&style=plastic)
@@ -34,7 +35,8 @@
 
 <!-- ![Spotify Playlist](https://github.com/AjmalShajahan/AjmalShajahan/raw/main/metrics.plugin.music.playlist.spotify.svg) -->
 
-![Recent Music](https://github.com/AjmalShajahan/AjmalShajahan/raw/main/metrics.plugin.music.recent.svg) ![Top Artist](https://github.com/AjmalShajahan/AjmalShajahan/raw/main/metrics.plugin.music.top.artist.svg)
+![Recent Music](https://github.com/AjmalShajahan/AjmalShajahan/raw/main/metrics.plugin.music.recent.svg)
+![Top Artist](https://github.com/AjmalShajahan/AjmalShajahan/raw/main/metrics.plugin.music.top.artist.svg)
 
 <!-- ### Listening to 🎶 -->
 
