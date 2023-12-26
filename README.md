@@ -32,7 +32,7 @@
 <!-- ## 📊 Stats -->
 
 <!-- ![Metrics](https://github.com/AjmalShajahan/AjmalShajahan/raw/main/metrics.svg) -->
-[<img align="left" alt="Metrics" src="https://gist.githubusercontent.com/AjmalShajahan/05441958052d15ed8ca2ff5f50cb7922/raw/metrics.svg">](#)
+[<img align="center" alt="Metrics" src="https://gist.githubusercontent.com/AjmalShajahan/05441958052d15ed8ca2ff5f50cb7922/raw/metrics.svg">](#)
 
 <!-- ![Spotify Playlist](https://github.com/AjmalShajahan/AjmalShajahan/raw/main/metrics.plugin.music.playlist.spotify.svg) -->
 
