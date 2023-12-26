@@ -13,7 +13,7 @@ jobs:
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
+          base: header #, activity, community, repositories, metadata
           base_indepth: yes
           config_order: base.header, isocalendar, languages, wakatime, achievements
           config_timezone: Asia/Kolkata
