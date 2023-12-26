@@ -36,6 +36,6 @@
 
 ![Recent Music](https://github.com/AjmalShajahan/AjmalShajahan/raw/main/metrics.plugin.music.recent.svg) ![Top Artist](https://github.com/AjmalShajahan/AjmalShajahan/raw/main/metrics.plugin.music.top.artist.svg)
 
-### Listening to 🎶
+<!-- ### Listening to 🎶 -->
 
-![Spotify](https://spotify-readme-ajmalshajahan.vercel.app/api?theme=dark&spin=true&scan=true&rainbow=true)
+![Spotify Now Playing](https://spotify-readme-ajmalshajahan.vercel.app/api?theme=dark&spin=true&scan=true&rainbow=true)
