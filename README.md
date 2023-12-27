@@ -6,9 +6,9 @@
 
 ## Coding time
 
-![Today](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/AjmalShajahan/interval:today&label=today&style=plastic)
-![7 Days](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/AjmalShajahan/interval:7_days&label=last%207d&style=plastic)
-![30 Days](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/AjmalShajahan/interval:30_days&label=last%2030d&style=plastic)
+[<img alt="Today" src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/AjmalShajahan/interval:today&label=today&style=plastic">](#)
+[<img alt="7 Days" src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/AjmalShajahan/interval:7_days&label=last%207d&style=plastic">](#)
+[<img alt="30 Days" src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/AjmalShajahan/interval:30_days&label=last%2030d&style=plastic">](#)
 
 <!--
 ### Trophies 🏆
