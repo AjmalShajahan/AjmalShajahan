@@ -32,17 +32,17 @@
 <!-- ## 📊 Stats -->
 
 <!-- ![Metrics](https://github.com/AjmalShajahan/AjmalShajahan/raw/main/metrics.svg) -->
-[<img align="left" width="300" alt="Metrics" src="https://gist.githubusercontent.com/AjmalShajahan/05441958052d15ed8ca2ff5f50cb7922/raw/metrics.svg">](#)
+[<img align="left" alt="Metrics" src="https://gist.githubusercontent.com/AjmalShajahan/05441958052d15ed8ca2ff5f50cb7922/raw/metrics.svg">](#)
 
 <!-- ![Spotify Playlist](https://github.com/AjmalShajahan/AjmalShajahan/raw/main/metrics.plugin.music.playlist.spotify.svg) -->
 
 <!-- ![Recent Music](https://github.com/AjmalShajahan/AjmalShajahan/raw/main/metrics.plugin.music.recent.svg) -->
 <!-- ![Top Artist](https://github.com/AjmalShajahan/AjmalShajahan/raw/main/metrics.plugin.music.top.artist.svg) -->
 
-[<img align="right" width="300" alt="Recent Music" src="https://gist.githubusercontent.com/AjmalShajahan/05441958052d15ed8ca2ff5f50cb7922/raw/metrics.plugin.music.recent.svg">](#)
+[<img align="right" alt="Recent Music" src="https://gist.githubusercontent.com/AjmalShajahan/05441958052d15ed8ca2ff5f50cb7922/raw/metrics.plugin.music.recent.svg">](#)
 
-[<img align="right" width="300" alt="Top Artists" src="https://gist.githubusercontent.com/AjmalShajahan/05441958052d15ed8ca2ff5f50cb7922/raw/metrics.plugin.music.top.artists.svg">](#)
+[<img align="right" alt="Top Artists" src="https://gist.githubusercontent.com/AjmalShajahan/05441958052d15ed8ca2ff5f50cb7922/raw/metrics.plugin.music.top.artists.svg">](#)
 
 <!-- ### Listening to 🎶 -->
 
-[<img align="right" width="300" alt="Spotify Now Playing" src="https://spotify-readme-ajmalshajahan.vercel.app/api?theme=dark&spin=true&scan=true&rainbow=true">](#)
+[<img align="right" alt="Spotify Now Playing" src="https://spotify-readme-ajmalshajahan.vercel.app/api?theme=dark&spin=true&scan=true&rainbow=true">](#)
