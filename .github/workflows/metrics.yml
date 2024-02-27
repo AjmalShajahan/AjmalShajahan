@@ -47,7 +47,7 @@ jobs:
           # plugin_crypto: no
           plugin_habits: yes
           plugin_notable: yes
-          plugin_topics: yes
+          # plugin_topics: yes
           plugin_followup: yes
 
       - name: Spotify - Random track from playlist
