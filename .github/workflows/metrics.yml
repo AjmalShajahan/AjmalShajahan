@@ -48,7 +48,7 @@ jobs:
           plugin_habits: yes
           plugin_notable: yes
           # plugin_topics: yes
-          plugin_followup: yes
+          # plugin_followup: yes
 
       - name: Spotify - Random track from playlist
         uses: lowlighter/metrics@master
