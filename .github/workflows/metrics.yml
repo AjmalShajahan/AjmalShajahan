@@ -32,7 +32,7 @@ jobs:
           # commits_authoring: Ajmal, AjmalS, Ajmal S, AjmalShajahan, Ajmal Shajahan, AjmalShajahan@users.noreply.github.com
           # plugin_lines: yes
           plugin_achievements: yes
-          plugin_achievements_display: compact
+          # plugin_achievements_display: compact
           # plugin_achievements_threshold: X
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
