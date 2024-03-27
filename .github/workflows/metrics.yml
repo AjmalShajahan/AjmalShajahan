@@ -51,16 +51,16 @@ jobs:
           # plugin_topics: yes
           # plugin_followup: yes
 
-      - name: Spotify - Random track from playlist
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.music.playlist.spotify.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_music: yes
-          plugin_music_playlist: https://open.spotify.com/embed/playlist/37i9dQZF1Fa1IIVtEpGUcU
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
+      # - name: Spotify - Random track from playlist
+      #   uses: lowlighter/metrics@master
+      #   with:
+      #     filename: metrics.plugin.music.playlist.spotify.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     plugin_music: yes
+      #     plugin_music_playlist: https://open.spotify.com/embed/playlist/37i9dQZF1Fa1IIVtEpGUcU
+      #     output_action: gist
+      #     committer_gist: ${{ secrets.GIST }}
 
       - name: Spotify - Recently listened
         uses: lowlighter/metrics@master
