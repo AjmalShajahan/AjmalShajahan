@@ -53,7 +53,8 @@ jobs:
           # plugin_followup_sections: user, repositories
           # plugin_followup_indepth: yes
           # plugin_followup_archived: no
-          plugin_activity_skipped: AjmalShajahan
+          plugin_activity: yes
+          # plugin_activity_skipped: AjmalShajahan
 
       # - name: Spotify - Random track from playlist
       #   uses: lowlighter/metrics@master
