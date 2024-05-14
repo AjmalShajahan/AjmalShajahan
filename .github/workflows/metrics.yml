@@ -23,7 +23,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_details: lines , percentage , bytes-size
           plugin_languages_sections: most-used #, recently-used
-          # plugin_languages_indepth: yes
+          plugin_languages_indepth: yes
           # plugin_languages_ignored: PowerShell C#,Vim Script, PHP, JavaScript, CSS, HTML, SCSS, Blade, Dart, Typescript
           # plugin_languages_threshold: 5
           # plugin_languages_limit: 5
@@ -39,7 +39,7 @@ jobs:
           # plugin_achievements_threshold: X
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          # plugin_wakatime_days: 30
+          plugin_wakatime_days: 30
           # plugin_wakatime_sections: time, languages, languages-graphs, editors, os
           # plugin_wakatime_limit: 15
           plugin_wakatime_url: https://wakatime.com
@@ -48,7 +48,7 @@ jobs:
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
           # plugin_crypto: no
-          # plugin_habits: yes
+          plugin_habits: yes
           plugin_notable: yes
           # plugin_topics: yes
           # plugin_followup: yes
