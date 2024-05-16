@@ -26,7 +26,7 @@ jobs:
           # plugin_languages_indepth: yes
           # plugin_languages_ignored: PowerShell C#,Vim Script, PHP, JavaScript, CSS, HTML, SCSS, Blade, Dart, Typescript
           # plugin_languages_threshold: 5
-          # plugin_languages_limit: 5
+          plugin_languages_limit: 10
           # plugin_languages_recent_days: 365
           # plugin_languages_recent_load: 1000
           # plugin_languages_analysis_timeout: 60
