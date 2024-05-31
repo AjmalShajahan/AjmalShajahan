@@ -49,7 +49,7 @@ jobs:
           committer_gist: ${{ secrets.GIST }}
           # plugin_crypto: no
           plugin_habits: yes
-          # plugin_notable: yes
+          plugin_notable: yes
           # plugin_topics: yes
           # plugin_followup: yes
           # plugin_followup_sections: user, repositories
