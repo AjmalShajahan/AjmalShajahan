@@ -19,7 +19,7 @@ jobs:
           # repositories_skipped: AjmalShajahan/AjmalShajahan
           config_order: base.header, isocalendar, languages, wakatime, achievements
           config_timezone: Asia/Kolkata
-          plugin_isocalendar: yes
+          # plugin_isocalendar: yes
           plugin_languages: yes
           plugin_languages_details: lines , percentage , bytes-size
           plugin_languages_sections: most-used #, recently-used
@@ -32,7 +32,7 @@ jobs:
           # plugin_languages_analysis_timeout: 60
           # plugin_languages_analysis_timeout_repositories: 15
           # repositories_affiliations: ""
-          commits_authoring: Ajmal, AjmalS, Ajmal S, AjmalShajahan, Ajmal Shajahan, AjmalShajahan@users.noreply.github.com
+          # commits_authoring: Ajmal, AjmalS, Ajmal S, AjmalShajahan, Ajmal Shajahan, AjmalShajahan@users.noreply.github.com
           plugin_lines: yes
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -50,7 +50,7 @@ jobs:
           # plugin_crypto: no
           plugin_habits: yes
           plugin_notable: yes
-          plugin_topics: yes
+          # plugin_topics: yes
           # plugin_followup: yes
           # plugin_followup_sections: user, repositories
           # plugin_followup_indepth: yes
