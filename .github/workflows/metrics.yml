@@ -18,7 +18,7 @@ jobs:
           base: header, metadata, activity #, community, repositories,
           base_indepth: yes
           # repositories: 300
-          # repositories_skipped: AjmalShajahan/AjmalShajahan
+          repositories_skipped: AjmalShajahan, winget-pkgs
           config_order: base.header, isocalendar, languages, wakatime, achievements
           config_timezone: Asia/Kolkata
           plugin_isocalendar: yes
