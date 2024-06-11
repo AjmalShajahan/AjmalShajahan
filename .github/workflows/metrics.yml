@@ -1,7 +1,8 @@
 name: Metrics
 on:
   schedule:
-    - cron: "0/20 * * * *"
+    # - cron: "0/40 * * * *"
+    - cron: "0 * * * *"
   push: { branches: ["test"] }
   workflow_dispatch:
 jobs:
