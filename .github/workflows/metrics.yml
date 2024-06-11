@@ -7,7 +7,8 @@ on:
   workflow_dispatch:
 jobs:
   metrics:
-    runs-on: ubuntu-latest
+    # runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
       - name: Metrics
         uses: lowlighter/metrics@master
