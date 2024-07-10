@@ -26,7 +26,7 @@ jobs:
           plugin_languages_details: lines , percentage #, bytes-size
           plugin_languages_sections: most-used # , recently-used
           # plugin_languages_indepth: yes
-          plugin_languages_ignored: PowerShell, C#, Vim Script, PHP, JavaScript, CSS, HTML, SCSS, Blade, Dart, Typescript, PlpgSQL, Hack, C, Lua
+          plugin_languages_ignored: PowerShell, C#, Vim Script, PHP, JavaScript, CSS, HTML, SCSS, Blade, Dart, Typescript, PlpgSQL, Hack, C, Lua, Makefile
           # plugin_languages_threshold: 8
           # plugin_languages_limit: 10
           # plugin_languages_recent_days: 365
