@@ -26,14 +26,14 @@ jobs:
           plugin_languages_details: lines , percentage #, bytes-size
           plugin_languages_sections: most-used # , recently-used
           # plugin_languages_indepth: yes
-          plugin_languages_ignored: PowerShell, C#, Vim Script, PHP, JavaScript, CSS, HTML, SCSS, Blade, Dart, Typescript, PlpgSQL, Hack, C, Lua, Makefile
+          plugin_languages_ignored: PowerShell, C#, Vim Script, PHP, JavaScript, CSS, HTML, SCSS, Blade, Dart, Typescript, PlpgSQL, Hack, C, Lua, Makefile, Swift
           # plugin_languages_threshold: 8
           # plugin_languages_limit: 10
           # plugin_languages_recent_days: 365
           # plugin_languages_recent_load: 1000
           # plugin_languages_analysis_timeout: 60
           # plugin_languages_analysis_timeout_repositories: 15
-          # repositories_affiliations: ""
+          repositories_affiliations: ""
           commits_authoring: Ajmal, AjmalS, Ajmal S, AjmalShajahan, Ajmal Shajahan, AjmalShajahan@users.noreply.github.com
           plugin_lines: yes
           plugin_achievements: yes
