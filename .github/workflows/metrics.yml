@@ -2,7 +2,7 @@ name: Metrics
 on:
   schedule:
     # - cron: "0/40 * * * *"
-    - cron: "0 */2 * * *"
+    - cron: "0 */5 * * *"
   push: { branches: ["test"] }
   workflow_dispatch:
 jobs:
@@ -11,7 +11,7 @@ jobs:
     # runs-on: self-hosted
     steps:
       - name: Metrics
-        uses: lowlighter/metrics@master
+        uses: AjmalShajahan/metrics@test
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
