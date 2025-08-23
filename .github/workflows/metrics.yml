@@ -15,6 +15,7 @@ jobs:
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          login: ${{ github.repository_owner }}
           base: header, metadata, activity #, community, repositories,
           base_indepth: yes
           repositories: 200
