@@ -15,11 +15,10 @@ jobs:
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          login: ${{ github.repository_owner }}
           base: header, metadata, activity #, community, repositories,
           base_indepth: yes
           repositories: 200
-          repositories_skipped: AjmalShajahan #, winget-pkgs
+          repositories_skipped: ${{ vars.REPOSITORIES_SKIPPED }}
           config_order: base.header, isocalendar, languages, wakatime, achievements
           config_timezone: Asia/Kolkata
           # plugin_isocalendar: yes
@@ -27,7 +26,7 @@ jobs:
           # plugin_languages_details: percentage #, bytes-size, lines ,
           # plugin_languages_sections: most-used # , recently-used
           # plugin_languages_indepth: yes
-          plugin_languages_ignored: PowerShell, C#, Vim Script, PHP, JavaScript, CSS, HTML, SCSS, Blade, Dart, Typescript, PlpgSQL, Hack, C, Lua, Makefile, Swift, Batchfile, Ruby
+          plugin_languages_ignored: ${{ vars.PLUGIN_LANGUAGES_IGNORED }}
           # plugin_languages_threshold: 8
           # plugin_languages_limit: 10
           # plugin_languages_recent_days: 365
@@ -35,8 +34,8 @@ jobs:
           # plugin_languages_analysis_timeout: 60
           # plugin_languages_analysis_timeout_repositories: 15
           repositories_affiliations: ""
-          users_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot], actions-user, action@github.com, renovate[bot]
-          commits_authoring: Ajmal, AjmalS, Ajmal S, AjmalShajahan, Ajmal Shajahan, AjmalShajahan@users.noreply.github.com
+          users_ignored: ${{ vars.USERS_IGNORED }}
+          commits_authoring: ${{ vars.COMMITS_AUTHORING }}
           plugin_lines: yes
           plugin_achievements: yes
           plugin_achievements_display: compact
