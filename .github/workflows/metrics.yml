@@ -38,7 +38,7 @@ jobs:
           users_ignored: ${{ vars.USERS_IGNORED }}
           commits_authoring: ${{ vars.COMMITS_AUTHORING }}
           plugin_lines: yes
-          plugin_lines_sections: base, repositories, history
+          plugin_lines_sections: base, history
           plugin_lines_delay: 40
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -60,6 +60,7 @@ jobs:
           plugin_notable_from: all
           plugin_notable_indepth: yes
           plugin_notable_types: commit, pull_request, issue
+          plugin_notable_skipped: ${{ vars.NOTABLE_SKIPPED }}
           # plugin_topics: yes
           # plugin_followup: yes
           # plugin_followup_sections: user, repositories
