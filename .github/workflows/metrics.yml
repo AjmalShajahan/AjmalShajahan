@@ -3,7 +3,7 @@ on:
   schedule:
     # - cron: "0/40 * * * *"
     - cron: "0 */12 * * *"
-  push: { branches: ["test"] }
+  push: { branches: ["main","test"] }
   workflow_dispatch:
 jobs:
   metrics:
@@ -18,8 +18,9 @@ jobs:
           base: header, metadata, activity, repositories #, community, repositories,
           base_indepth: yes
           repositories: 200
+          repositories_batch: 30
           repositories_skipped: ${{ vars.REPOSITORIES_SKIPPED }}
-          config_order: base.header, isocalendar, languages, wakatime, achievements
+          config_order: base.header, languages, wakatime, achievements, base.activity
           config_timezone: Asia/Kolkata
           # plugin_isocalendar: yes
           plugin_languages: yes
@@ -38,7 +39,7 @@ jobs:
           commits_authoring: ${{ vars.COMMITS_AUTHORING }}
           plugin_lines: yes
           plugin_lines_sections: base, repositories, history
-          plugin_lines_delay: 3
+          plugin_lines_delay: 40
           plugin_achievements: yes
           plugin_achievements_display: compact
           # plugin_achievements_threshold: X
@@ -52,8 +53,9 @@ jobs:
           config_twemoji: yes
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
-          # plugin_crypto: no
-          # plugin_habits: yes
+          plugin_reactions: yes
+          plugin_reactions_details: count
+          plugin_habits: yes
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_indepth: yes
