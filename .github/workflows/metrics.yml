@@ -15,9 +15,9 @@ jobs:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, metadata, activity, repositories #, community, repositories,
-          base_indepth: yes
+          # base_indepth: yes
           repositories: 200
-          repositories_batch: 30
+          repositories_batch: 50
           repositories_skipped: ${{ vars.REPOSITORIES_SKIPPED }}
           config_order: base.header, languages, wakatime, achievements, base.activity
           config_timezone: Asia/Kolkata
