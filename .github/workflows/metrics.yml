@@ -14,7 +14,7 @@ jobs:
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, metadata, activity, repositories #, community, repositories,
+          base: header, metadata, activity #, community, repositories,
           # base_indepth: yes
           repositories: 200
           repositories_batch: 200
