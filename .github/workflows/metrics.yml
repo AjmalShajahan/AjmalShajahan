@@ -1,9 +1,9 @@
 name: Metrics
 on:
-  push: { branches: ["main","test"] }
+  push: { branches: ["main", "test"] }
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
 jobs:
   github:
     if: github.event_name != 'schedule'
@@ -26,6 +26,7 @@ jobs:
           # plugin_languages_details: percentage #, bytes-size, lines ,
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: yes
+          plugin_languages_skipped: ${{ vars.PLUGIN_LANGUAGES_SKIPPED }}
           plugin_languages_ignored: ${{ vars.PLUGIN_LANGUAGES_IGNORED }}
           # plugin_languages_threshold: 10
           # plugin_languages_limit: 8
@@ -41,6 +42,7 @@ jobs:
           plugin_lines_delay: 40
           plugin_achievements: yes
           plugin_achievements_display: compact
+          plugin_lines_skipped: ${{ vars.PLUGIN_LINES_SKIPPED }}
           # plugin_achievements_threshold: X
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
