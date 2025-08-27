@@ -38,7 +38,7 @@ jobs:
           users_ignored: ${{ vars.USERS_IGNORED }}
           commits_authoring: ${{ vars.COMMITS_AUTHORING }}
           plugin_lines: yes
-          plugin_lines_sections: base, history
+          plugin_lines_sections: base
           plugin_lines_delay: 3
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -51,7 +51,7 @@ jobs:
           plugin_wakatime_limit: 10
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: .user.login
-          config_twemoji: yes
+          config_gemoji: yes
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
           plugin_reactions: yes
