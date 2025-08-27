@@ -21,7 +21,7 @@ jobs:
           repositories_skipped: ${{ vars.REPOSITORIES_SKIPPED }}
           config_order: base.header, languages, wakatime, achievements, base.activity
           config_timezone: Asia/Kolkata
-          # plugin_isocalendar: yes
+          plugin_isocalendar: yes
           plugin_languages: yes
           # plugin_languages_details: percentage #, bytes-size, lines ,
           plugin_languages_sections: most-used, recently-used
@@ -30,10 +30,10 @@ jobs:
           plugin_languages_ignored: ${{ vars.PLUGIN_LANGUAGES_IGNORED }}
           # plugin_languages_threshold: 10
           # plugin_languages_limit: 8
-          # plugin_languages_recent_days: 365
-          # plugin_languages_recent_load: 1000
-          # plugin_languages_analysis_timeout: 60
-          # plugin_languages_analysis_timeout_repositories: 15
+          plugin_languages_recent_days: 365
+          plugin_languages_recent_load: 1000
+          plugin_languages_analysis_timeout: 60
+          plugin_languages_analysis_timeout_repositories: 15
           repositories_affiliations: ""
           users_ignored: ${{ vars.USERS_IGNORED }}
           commits_authoring: ${{ vars.COMMITS_AUTHORING }}
