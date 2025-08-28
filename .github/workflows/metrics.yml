@@ -21,7 +21,7 @@ jobs:
           repositories_skipped: ${{ vars.REPOSITORIES_SKIPPED }}
           config_order: base.header, languages, wakatime, achievements, base.activity
           config_timezone: Asia/Kolkata
-          plugin_isocalendar: yes
+          # plugin_isocalendar: yes
           plugin_languages: yes
           # plugin_languages_details: percentage #, bytes-size, lines ,
           plugin_languages_sections: most-used, recently-used
@@ -56,7 +56,7 @@ jobs:
           committer_gist: ${{ secrets.GIST }}
           plugin_reactions: yes
           plugin_reactions_details: count
-          plugin_habits: yes
+          # plugin_habits: yes
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_indepth: yes
