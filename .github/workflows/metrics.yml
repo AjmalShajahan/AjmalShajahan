@@ -3,10 +3,14 @@ on:
   push: { branches: ["main", "test"] }
   workflow_dispatch:
   schedule:
+    # Runs daily at midnight
     - cron: "0 0 * * *"
+    # Runs every Monday at 6 AM
+    - cron: '0 6 * * 1'
 jobs:
   github:
-    if: github.event_name != 'schedule'
+    # Run this job only on scheduled events at 6 AM every Monday
+    if: github.event.schedule == '0 6 * * 1'
     runs-on: ubuntu-latest
     steps:
       - name: Github Metrics
@@ -70,7 +74,8 @@ jobs:
           # debug: yes
 
   spotify:
-    if: github.event_name == 'schedule'
+    # Run this job only on scheduled events at midnight every day
+    if: github.event.schedule == '0 0 * * *'
     runs-on: ubuntu-latest
     steps:
       - name: Spotify - Recently listened
