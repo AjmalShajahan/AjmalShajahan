@@ -9,8 +9,8 @@ on:
     - cron: '0 6 * * 1'
 jobs:
   github:
-    # Run this job only on scheduled events at 6 AM every Monday
-    if: github.event.schedule == '0 6 * * 1'
+    # Run this job only on scheduled events at 6 AM every Monday or on Manual trigger
+    if: github.event.schedule == '0 6 * * 1' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-slim
     steps:
       - name: Github Metrics
@@ -74,9 +74,9 @@ jobs:
           # debug: yes
 
   spotify:
-    # Run this job only on scheduled events at midnight every day
-    if: github.event.schedule == '0 0 * * *'
-    runs-on: ubuntu-latest
+    # Run this job only on scheduled events at midnight every day or on Manual trigger
+    if: github.event.schedule == '0 0 * * *' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-slim
     steps:
       - name: Spotify - Recently listened
         uses: lowlighter/metrics@master
