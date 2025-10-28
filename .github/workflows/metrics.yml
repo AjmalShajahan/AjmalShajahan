@@ -6,7 +6,7 @@ on:
     # Runs daily at midnight
     - cron: "0 0 * * *"
     # Runs every Monday at 6 AM
-    - cron: '0 6 * * 1'
+    - cron: "0 6 * * 1"
 jobs:
   github:
     # Run this job only on scheduled events at 6 AM every Monday or on Manual trigger
@@ -34,10 +34,10 @@ jobs:
           plugin_languages_ignored: ${{ vars.PLUGIN_LANGUAGES_IGNORED }}
           # plugin_languages_threshold: 10
           # plugin_languages_limit: 8
-          plugin_languages_recent_days: 365
-          plugin_languages_recent_load: 1000
-          plugin_languages_analysis_timeout: 60
-          plugin_languages_analysis_timeout_repositories: 15
+          # plugin_languages_recent_days: 365
+          # plugin_languages_recent_load: 1000
+          # plugin_languages_analysis_timeout: 60
+          # plugin_languages_analysis_timeout_repositories: 15
           repositories_affiliations: ""
           users_ignored: ${{ vars.USERS_IGNORED }}
           commits_authoring: ${{ vars.COMMITS_AUTHORING }}
