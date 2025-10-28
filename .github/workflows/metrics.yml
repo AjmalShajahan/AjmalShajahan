@@ -11,7 +11,7 @@ jobs:
   github:
     # Run this job only on scheduled events at 6 AM every Monday
     if: github.event.schedule == '0 6 * * 1'
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
     steps:
       - name: Github Metrics
         uses: AjmalShajahan/metrics@test
