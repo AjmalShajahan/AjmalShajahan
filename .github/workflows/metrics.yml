@@ -11,7 +11,7 @@ jobs:
   github:
     # Run this job only on scheduled events at 6 AM every Monday or on Manual trigger
     if: github.event.schedule == '0 6 * * 1' || github.event_name == 'workflow_dispatch'
-    runs-on: ubuntu-slim
+    runs-on: ubuntu-latest
     steps:
       - name: Github Metrics
         uses: AjmalShajahan/metrics@test
@@ -76,7 +76,7 @@ jobs:
   spotify:
     # Run this job only on scheduled events at midnight every day or on Manual trigger
     if: github.event.schedule == '0 0 * * *' || github.event_name == 'workflow_dispatch'
-    runs-on: ubuntu-slim
+    runs-on: ubuntu-latest
     steps:
       - name: Spotify - Recently listened
         uses: lowlighter/metrics@master
