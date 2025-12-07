@@ -41,9 +41,26 @@
 
 ### 🎧 Now Playing on Spotify
 
-[<img alt="Spotify Now Playing" src="https://ajmal-spotify-readme.vercel.app/api?theme=dark&spin=true&scan=true&rainbow=true">](#)
-
-[<img alt="Spotify Listen Badge" src="https://img.shields.io/badge/Spotify-Listen-green?logo=spotify">](https://ajmal-spotify-readme.vercel.app/api/play)
-
-[<img alt="Recent Music" src="https://gist.githubusercontent.com/AjmalShajahan/05441958052d15ed8ca2ff5f50cb7922/raw/metrics.plugin.music.recent.svg">](#)
-[<img alt="Top Artists" src="https://gist.githubusercontent.com/AjmalShajahan/05441958052d15ed8ca2ff5f50cb7922/raw/metrics.plugin.music.top.artists.svg">](#)
+<table>
+    <td>
+      <a href="#">
+        <img alt="Spotify Now Playing" src="https://ajmal-spotify-readme.vercel.app/api?theme=dark&spin=true&scan=true&rainbow=true">
+      </a>
+      <a href="https://ajmal-spotify-readme.vercel.app/api/play">
+        <img alt="Spotify Listen Badge" src="https://img.shields.io/badge/Spotify-Listen-green?logo=spotify">
+      </a>
+    </td>
+  </div>
+  <tr>
+    <td>
+      <a href="#">
+        <img alt="Recent Music" src="https://gist.githubusercontent.com/AjmalShajahan/05441958052d15ed8ca2ff5f50cb7922/raw/metrics.plugin.music.recent.svg">
+      </a>
+    </td>
+    <td>
+      <a href="#">
+        <img alt="Top Artists" src="https://gist.githubusercontent.com/AjmalShajahan/05441958052d15ed8ca2ff5f50cb7922/raw/metrics.plugin.music.top.artists.svg">
+      </a>
+    </td>
+  </tr>
+</table>
