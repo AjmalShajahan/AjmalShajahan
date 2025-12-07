@@ -40,7 +40,7 @@
 <!-- ![Top Artist](https://github.com/AjmalShajahan/AjmalShajahan/raw/main/metrics.plugin.music.top.artist.svg) -->
 
 <!-- ### Listening to 🎶 -->
-[<img align="left" alt="Spotify Now Playing" src="https://spotify-readme-ajmalshajahan.vercel.app/api?theme=dark&spin=true&scan=true&rainbow=true">](https://spotify-readme-ajmalshajahan.vercel.app/api/play)
+[<img align="left" alt="Spotify Now Playing" src="https://ajmal-spotify-readme.vercel.app/api?theme=dark&spin=true&scan=true&rainbow=true">](https://ajmal-spotify-readme.vercel.app/api/play)
 [<img align="left" alt="GitHub Icon" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg">](https://github.com/AjmalShajahan/Spotify-Readme)
 
 [<img align="left" alt="Recent Music" src="https://gist.githubusercontent.com/AjmalShajahan/05441958052d15ed8ca2ff5f50cb7922/raw/metrics.plugin.music.recent.svg">](#)
