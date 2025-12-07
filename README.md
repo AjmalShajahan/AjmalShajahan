@@ -39,8 +39,6 @@
 <!-- ![Recent Music](https://github.com/AjmalShajahan/AjmalShajahan/raw/main/metrics.plugin.music.recent.svg) -->
 <!-- ![Top Artist](https://github.com/AjmalShajahan/AjmalShajahan/raw/main/metrics.plugin.music.top.artist.svg) -->
 
-### 🎧 Now Playing on Spotify
-
 <table>
     <td>
       <a href="#">
