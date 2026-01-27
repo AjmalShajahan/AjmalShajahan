@@ -1,0 +1,170 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/a7c41e74f435e8631a73e1cbe8daeae6a7e97ac4\"><strong>a</strong>7c41e74f435e8631a73e1cbe8daeae6a7e97ac4</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/abfc06b838c14bb55be39e2c566319de55e9fb1b\"><strong>ab</strong>fc06b838c14bb55be39e2c566319de55e9fb1b</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "abc-commit",
+    "tier": 3,
+    "desc": "One of my commit sha starts with \"abc\".",
+    "body": "- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/abcfd1ac4a1f13fea578a04559bb5f34392bd754\"><strong>abc</strong>fd1ac4a1f13fea578a04559bb5f34392bd754</a>",
+    "image": "https://my-badges.github.io/my-badges/abc-commit.png"
+  },
+  {
+    "id": "alien-day",
+    "tier": 0,
+    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/df17e2da082006786fdab4a8de97fc5d76c75544\">df17e2d</a>\n- <a href=\"https://github.com/AjmalShajahan/tgbot/commit/c4b84c3b842635ebf89732ca368e752d2e03b781\">c4b84c3</a>\n- <a href=\"https://github.com/AjmalShajahan/tgbot/commit/4a65f52516a0d88638d7d5494e6ba7378b81c481\">4a65f52</a>",
+    "image": "https://my-badges.github.io/my-badges/alien-day.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AjmalShajahan/Spotify-Readme/commit/495f77b65d741c085178232d52f2d37e5a627a07\">495f77b</a>: chore: update .gitignore to include .vercel and .env*.local",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "emoji-only-commit",
+    "tier": 0,
+    "desc": "I used only emojis in my commit message.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/43e21b6cdd14ed7d7cc6ade3de87b346f9b7bd03\">43e21b6</a>: 🙈\n\n🙈\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/8099cd9ee384a009b7fb74a57eef6fbd2e4bcc22\">8099cd9</a>: 🙈\n\n🙈",
+    "image": "https://my-badges.github.io/my-badges/emoji-only-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 530 times)\n2. metrics.yml (used 429 times)\n3. readme.md (used 57 times)\n4. add (used 32 times)\n5. updated (used 31 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-6+",
+    "tier": 6,
+    "desc": "I did 8 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/0725cb6cdac93a5e37c842a44640648635d83ad1\">0725cb6</a>: fix: comment out base_indepth and repositories parameters in metrics workflow [skip ci]\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/f4dff0aab5771e4e497cc9b11e01d05152047868\">f4dff0a</a>: fix: refactor metrics workflow to use variables\n\n- Replaced hardcoded values for repositories skipped, languages ignored, users ignored, and commits authoring with corresponding variables.\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/b7d706fee09195523bd5036f3b8a82e2514b1d3e\">b7d706f</a>: fix: add login parameter to metrics workflow\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/c831591ca3baf97a82676d2af73a95eea37b73a7\">c831591</a>: fix: disable debug mode in metrics workflow [skip ci]\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/8a64534bc93e52341bdc6a159b7906c61dd398be\">8a64534</a>: fix: update repositories count in metrics configuration\n\nReduced the number of repositories tracked from 300 to 200 in the metrics workflow.\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/7814da2a1a83e80664583d7aeb4c11b615843d00\">7814da2</a>: fix: add users ignored list and enable debug mode in metrics workflow\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/81c42fc0d03ce5d81daacae4bf846e8969a1b1e7\">81c42fc</a>: fix: update cron schedule to run every 12 hours [skip ci]\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/8642433516a6dfe68a7051ee3c9d3cecd0be220a\">8642433</a>: fix: update cron schedule to run every 5 minutes and change metrics action reference\n\n- Changed cron schedule from \"0 */2 * * *\" to \"0 */5 * * *\"\n- Updated action reference from lowlighter/metrics@master to AjmalShajahan/metrics@test",
+    "image": "https://my-badges.github.io/my-badges/fix-6+.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/e07d415051c99dc469903a33e5fa88b794c5d67f\">e07d415</a>\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/005435f2bea5d247805d62d45b2c27ed924f9439\">005435f</a>\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/91362f4accb15a432b4254084afae7f142658508\">91362f4</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "leap-day",
+    "tier": 0,
+    "desc": "Happy February 29th! I committed on a Leap Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/5b829d5e505c79006c0787d6a5a6b909fadba644\">5b829d5</a>",
+    "image": "https://my-badges.github.io/my-badges/leap-day.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/8bf28a334389995aa11038cbc0ecc9cd9bbef463\">8bf28a3</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "may-the-4th",
+    "tier": 0,
+    "desc": "May the 4th be with you!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/8da073f44e2ce801a16b51f48189a6891ac33926\">8da073f</a>\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/39319de2de4a95eff02e679ae8dd85f7f88934c0\">39319de</a>",
+    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
+  },
+  {
+    "id": "pi-day",
+    "tier": 0,
+    "desc": "Happy March 14th! I committed on a Pi Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/ae81af08986c5c6ce9ddacea9a89e5b4477c2c34\">ae81af0</a>",
+    "image": "https://my-badges.github.io/my-badges/pi-day.png"
+  },
+  {
+    "id": "programmers-day",
+    "tier": 0,
+    "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/2eb85acf6bfbf1d1cb536b8824f02a4611f6aafb\">2eb85ac</a>",
+    "image": "https://my-badges.github.io/my-badges/programmers-day.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+  },
+  {
+    "id": "self-upvote",
+    "tier": 1,
+    "desc": "I liked my own comment so much that I upvoted it.",
+    "body": "* <a href=\"https://github.com/CybroOdoo/OpenHRMS/issues/86#issuecomment-1164424084\">😕</a>",
+    "image": "https://my-badges.github.io/my-badges/self-upvote.png"
+  },
+  {
+    "id": "st-patricks-day",
+    "tier": 0,
+    "desc": "I committed on St. Patrick's Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/4d9b3a362193915c99c3afd64b0c540a66c1ea59\">4d9b3a3</a>\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/47efe8da4700c5e393525e8c6ce94a0e5d6cf395\">47efe8d</a>",
+    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
+  },
+  {
+    "id": "star-gazer",
+    "tier": 0,
+    "desc": "I'm a star gazer!",
+    "body": "I've starred over 1000 repositories!",
+    "image": "https://my-badges.github.io/my-badges/star-gazer.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 1 my own repositories.",
+    "body": "- <a href=\"https://github.com/AjmalShajahan/dev-website\">AjmalShajahan/dev-website</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/aad506a9d222f4c4654c75b0a0526d4b0365b836\">aad506a</a>\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/804f84b9ba621fae93590193f51bc86a096971c6\">804f84b</a>\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/1a3f702602220d506c0a2f948d59aa47426a25fc\">1a3f702</a>\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/c64b7de642e5c0f47af737f99195d8b6fb4d145b\">c64b7de</a>\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/5eced3d826bc6b05b06ebe1fd06694b47e2cd6d6\">5eced3d</a>\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/d318d86db127b7caf32d209edc0ce12d3d918ff2\">d318d86</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/0f48cb8aaef205ab53d3c19a32585bb729ec4db7\">0f48cb8</a>\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/83f66899e3e6e0550ae9e7b1e9f51cda5bd0edf8\">83f6689</a>\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/944ec84ba3fb849edf6ca08c7e514c194da00eef\">944ec84</a>\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/2be44b6514937ba03b35e32c356dbb8436458574\">2be44b6</a>\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/e49c3e35151fa2e71066d58bc8a84a34a3ad19c1\">e49c3e3</a>\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/dbd8ea892fb0adaf74e9ddc43911ee3d5c5d6503\">dbd8ea8</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/81c42fc0d03ce5d81daacae4bf846e8969a1b1e7\">81c42fc</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
