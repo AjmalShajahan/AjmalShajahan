@@ -83,3 +83,9 @@
     </td>
   </tr>
 </table>
+
+<details>
+  <summary>My Badges</summary>
+  <!-- my-badges start -->
+  <!-- my-badges end -->
+</details>
