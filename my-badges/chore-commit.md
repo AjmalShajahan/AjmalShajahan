@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/AjmalShajahan/Spotify-Readme/commit/495f77b65d741c085178232d52f2d37e5a627a07">495f77b</a>: chore: update .gitignore to include .vercel and .env*.local
+- <a href="https://github.com/AjmalShajahan/syncthing-android/commit/b0a9bcaf192740e7ed9092540d241ac02607709e">b0a9bca</a>: chore: standardize commit message format for version bump
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
