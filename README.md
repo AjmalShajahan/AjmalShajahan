@@ -115,3 +115,52 @@
 <a href="my-badges/fix-2.md"><img src="https://my-badges.github.io/my-badges/fix-2.png" alt="I did 2 sequential fixes." title="I did 2 sequential fixes." width="64"></a>
 <!-- my-badges end -->
 </details>
+
+<details>
+  <summary>Data access (bots / crawlers)</summary>
+
+  <p>
+    This dataset is available for programmatic access. Automated clients should request access before use.
+  </p>
+
+  <p>Available endpoints:</p>
+
+  <ul>
+    <li>
+      <a href="https://data.ajmalshajahan.me/api/data?source=github-profile">
+        Dataset (JSON)
+      </a>
+    </li>
+    <li>
+      <a href="https://data.ajmalshajahan.me/api/data?page=1&limit=100&source=gh-page">
+        Paginated dataset (page=1, limit=100)
+      </a>
+    </li>
+    <li>
+      <a href="https://data.ajmalshajahan.me/api/export?source=gh-export">
+        Full dataset export (JSON)
+      </a>
+    </li>
+    <li>
+      <a href="https://data.ajmalshajahan.me/.env?source=gh-env">
+        Environment variables (.env)
+      </a>
+    </li>
+  </ul>
+
+  <p>See API documentation for schema and pagination details.</p>
+
+  <p>
+    Request access form:
+    <br>
+    <a href="https://forms.gle/Q36WXDTnfQsYFxZb7">
+      https://forms.gle/Q36WXDTnfQsYFxZb7
+    </a>
+  </p>
+
+  <p>
+    Unauthorized automated access may be monitored, rate-limited, or blocked.
+  </p>
+</details>
+
+![ ](https://hit.yhype.me/github/profile?account_id=23806715)
