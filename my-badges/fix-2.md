@@ -4,8 +4,11 @@
 
 Commits:
 
-- <a href="https://github.com/AjmalShajahan/syncthing-android/commit/ac2ee29a3a6695a6ed4583b704880f080dcc0a70">ac2ee29</a>: fix: add missing camera feature declaration in AndroidManifest.xml
-- <a href="https://github.com/AjmalShajahan/syncthing-android/commit/d9cba1e050d6234a7a04ee8869ac9736a59043d2">d9cba1e</a>: fix: update BUILD_HOST and container image references in workflow files
+- <a href="https://github.com/AjmalShajahan/Lissy93-my-website/commit/f15987b709a4e1e601e007edb404b065024061ee">f15987b</a>: fix: add CODEBERG_TOKEN to environment variables
+- <a href="https://github.com/AjmalShajahan/Lissy93-my-website/commit/d7d2cfb495c7ed0ec4d6c735c464fffe7794204c">d7d2cfb</a>: fix: update package.json and svelte.config.js for environment compatibility
+
+- Added engines field in package.json to specify Node.js version.
+- Refactored svelte.config.js to improve adapter selection logic for Vercel deployment.
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

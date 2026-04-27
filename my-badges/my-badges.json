@@ -24,7 +24,7 @@
     "id": "alien-day",
     "tier": 0,
     "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/df17e2da082006786fdab4a8de97fc5d76c75544\">df17e2d</a>\n- <a href=\"https://github.com/AjmalShajahan/tgbot/commit/c4b84c3b842635ebf89732ca368e752d2e03b781\">c4b84c3</a>\n- <a href=\"https://github.com/AjmalShajahan/tgbot/commit/4a65f52516a0d88638d7d5494e6ba7378b81c481\">4a65f52</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AjmalShajahan/Lissy93-my-website/commit/f15987b709a4e1e601e007edb404b065024061ee\">f15987b</a>\n- <a href=\"https://github.com/AjmalShajahan/Lissy93-my-website/commit/d7d2cfb495c7ed0ec4d6c735c464fffe7794204c\">d7d2cfb</a>\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan/commit/df17e2da082006786fdab4a8de97fc5d76c75544\">df17e2d</a>\n- <a href=\"https://github.com/AjmalShajahan/tgbot/commit/c4b84c3b842635ebf89732ca368e752d2e03b781\">c4b84c3</a>\n- <a href=\"https://github.com/AjmalShajahan/tgbot/commit/4a65f52516a0d88638d7d5494e6ba7378b81c481\">4a65f52</a>",
     "image": "https://my-badges.github.io/my-badges/alien-day.png"
   },
   {
@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 540 times)\n2. metrics.yml (used 429 times)\n3. readme.md (used 57 times)\n4. add (used 46 times)\n5. updated (used 38 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 541 times)\n2. metrics.yml (used 429 times)\n3. readme.md (used 57 times)\n4. add (used 47 times)\n5. updated (used 38 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -178,7 +178,7 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/AjmalShajahan/syncthing-android/commit/ac2ee29a3a6695a6ed4583b704880f080dcc0a70\">ac2ee29</a>: fix: add missing camera feature declaration in AndroidManifest.xml\n- <a href=\"https://github.com/AjmalShajahan/syncthing-android/commit/d9cba1e050d6234a7a04ee8869ac9736a59043d2\">d9cba1e</a>: fix: update BUILD_HOST and container image references in workflow files",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AjmalShajahan/Lissy93-my-website/commit/f15987b709a4e1e601e007edb404b065024061ee\">f15987b</a>: fix: add CODEBERG_TOKEN to environment variables\n- <a href=\"https://github.com/AjmalShajahan/Lissy93-my-website/commit/d7d2cfb495c7ed0ec4d6c735c464fffe7794204c\">d7d2cfb</a>: fix: update package.json and svelte.config.js for environment compatibility\n\n- Added engines field in package.json to specify Node.js version.\n- Refactored svelte.config.js to improve adapter selection logic for Vercel deployment.",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   }
 ]
