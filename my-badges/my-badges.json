@@ -140,13 +140,6 @@
     "image": "https://my-badges.github.io/my-badges/star-gazer.png"
   },
   {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 1 my own repositories.",
-    "body": "- <a href=\"https://github.com/AjmalShajahan/dev-website\">AjmalShajahan/dev-website</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
-  },
-  {
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
