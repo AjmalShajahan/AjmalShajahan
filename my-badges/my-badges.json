@@ -173,5 +173,12 @@
     "desc": "I did 2 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/AjmalShajahan/Lissy93-my-website/commit/f15987b709a4e1e601e007edb404b065024061ee\">f15987b</a>: fix: add CODEBERG_TOKEN to environment variables\n- <a href=\"https://github.com/AjmalShajahan/Lissy93-my-website/commit/d7d2cfb495c7ed0ec4d6c735c464fffe7794204c\">d7d2cfb</a>: fix: update package.json and svelte.config.js for environment compatibility\n\n- Added engines field in package.json to specify Node.js version.\n- Refactored svelte.config.js to improve adapter selection logic for Vercel deployment.",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 1 my own repositories.",
+    "body": "- <a href=\"https://github.com/AjmalShajahan/dev-website\">AjmalShajahan/dev-website</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
