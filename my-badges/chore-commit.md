@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/AjmalShajahan/syncthing-android/commit/b0a9bcaf192740e7ed9092540d241ac02607709e">b0a9bca</a>: chore: standardize commit message format for version bump
+- <a href="https://github.com/AjmalShajahan/useful-forks.github.io/commit/021bb616a30097b541333e71b852adc0d7e7902b">021bb61</a>: chore: remove analytics tracking
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
