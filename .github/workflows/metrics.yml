@@ -24,7 +24,7 @@ jobs:
           committer_gist: ${{ secrets.GIST }}
 
           # General configuration
-          config_order: base.header, languages, wakatime, achievements, habits, base.activity
+          config_order: base.header, languages, wakatime, achievements, habits, notable, reactions, base.activity, base.metadata
           config_timezone: Asia/Kolkata
           config_gemoji: yes
           users_ignored: ${{ vars.USERS_IGNORED }}
@@ -49,8 +49,8 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_recent_days: 7
           plugin_languages_recent_load: 300
-          plugin_languages_analysis_timeout: 60
-          plugin_languages_analysis_timeout_repositories: 15
+          plugin_languages_analysis_timeout: 30
+          plugin_languages_analysis_timeout_repositories: 10
           # plugin_languages_threshold: 10
 
           # Lines of code
@@ -69,7 +69,7 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 7
           plugin_wakatime_sections: time, languages, languages-graphs, editors, os
-          plugin_wakatime_limit: 10
+          plugin_wakatime_limit: 8
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: .user.login
 
