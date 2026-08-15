@@ -1,14 +1,15 @@
 name: Metrics
 on:
-  push: { branches: ["main", "test"] }
   workflow_dispatch:
   schedule:
     # Runs every Monday at 6 AM
     - cron: "0 6 * * 1"
+  push:
+    branches: ["main", "test"]
+    paths:
+      - ".github/workflows/metrics.yml"
 jobs:
   github:
-    # Run this job only on scheduled events at 6 AM every Monday or on Manual trigger
-    if: github.event.schedule == '0 6 * * 1' || github.event_name == 'workflow_dispatch' || github.ref_name == 'test'
     runs-on: ubuntu-latest
     steps:
       - name: Github Metrics
@@ -20,6 +21,7 @@ jobs:
           base_indepth: yes
           repositories: 200
           repositories_batch: 100
+          repositories_owned: no
           repositories_skipped: ${{ vars.REPOSITORIES_SKIPPED }}
           config_order: base.header, languages, wakatime, achievements, base.activity
           config_timezone: Asia/Kolkata
