@@ -32,16 +32,20 @@
 <!-- ## 📊 Stats -->
 
 <!-- ![Metrics](https://github.com/AjmalShajahan/AjmalShajahan/raw/main/metrics.svg) -->
-[<img align="left" alt="Metrics" src="https://gist.githubusercontent.com/AjmalShajahan/05441958052d15ed8ca2ff5f50cb7922/raw/metrics.svg">](#)
+<p align="center">
+  <a href="#">
+    <img alt="Metrics" src="https://gist.githubusercontent.com/AjmalShajahan/05441958052d15ed8ca2ff5f50cb7922/raw/metrics.svg">
+  </a>
+</p>
 
 <!-- ![Spotify Playlist](https://github.com/AjmalShajahan/AjmalShajahan/raw/main/metrics.plugin.music.playlist.spotify.svg) -->
 
 <!-- ![Recent Music](https://github.com/AjmalShajahan/AjmalShajahan/raw/main/metrics.plugin.music.recent.svg) -->
 <!-- ![Top Artist](https://github.com/AjmalShajahan/AjmalShajahan/raw/main/metrics.plugin.music.top.artist.svg) -->
 
-<table>
+<table align="center" width="100%">
   <tr>
-    <td align="center">
+    <td align="center" colspan="2">
       <a href="#">
         <img
           alt="Spotify Now Playing"
@@ -59,27 +63,23 @@
   </tr>
 
   <tr>
-    <td align="center">
-      <table>
-        <tr>
-          <td>
-            <a href="#">
-              <img
-                alt="Recent Music"
-                src="https://gist.githubusercontent.com/AjmalShajahan/05441958052d15ed8ca2ff5f50cb7922/raw/metrics.plugin.music.recent.svg"
-              >
-            </a>
-          </td>
-          <td>
-            <a href="#">
-              <img
-                alt="Top Artists"
-                src="https://gist.githubusercontent.com/AjmalShajahan/05441958052d15ed8ca2ff5f50cb7922/raw/metrics.plugin.music.top.artists.svg"
-              >
-            </a>
-          </td>
-        </tr>
-      </table>
+    <td align="center" width="50%">
+      <a href="#">
+        <img
+          alt="Recent Music"
+          src="https://gist.githubusercontent.com/AjmalShajahan/05441958052d15ed8ca2ff5f50cb7922/raw/metrics.plugin.music.recent.svg"
+          width="100%"
+        >
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="#">
+        <img
+          alt="Top Artists"
+          src="https://gist.githubusercontent.com/AjmalShajahan/05441958052d15ed8ca2ff5f50cb7922/raw/metrics.plugin.music.top.artists.svg"
+          width="100%"
+        >
+      </a>
     </td>
   </tr>
 </table>
