@@ -33,5 +33,12 @@
     "desc": "I'm a star gazer!",
     "body": "I've starred over 1000 repositories!",
     "image": "https://my-badges.github.io/my-badges/star-gazer.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 5 my own repositories.",
+    "body": "- <a href=\"https://github.com/AjmalShajahan/dev-website\">AjmalShajahan/dev-website</a>\n- <a href=\"https://github.com/AjmalShajahan/aur\">AjmalShajahan/aur</a>\n- <a href=\"https://github.com/AjmalShajahan/Spotify-Readme\">AjmalShajahan/Spotify-Readme</a>\n- <a href=\"https://github.com/AjmalShajahan/AjmalShajahan\">AjmalShajahan/AjmalShajahan</a>\n- <a href=\"https://github.com/AjmalShajahan/metrics\">AjmalShajahan/metrics</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
