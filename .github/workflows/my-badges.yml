@@ -15,8 +15,28 @@ permissions:
 jobs:
   my-badges:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Update My Badges
-        run: npx update-my-badges ${{github.repository_owner}}
+      - name: Checkout my-badges fork
+        uses: actions/checkout@v7
+        with:
+          repository: AjmalShajahan/my-badges
+          ref: master
+          path: my-badges-source
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: my-badges-source/package-lock.json
+
+      - name: Install and build fork
+        working-directory: my-badges-source
+        run: |
+          npm ci
+          npm run build
+
+      - name: Generate badges
+        run: node "$GITHUB_WORKSPACE/my-badges-source/dist/src/main.js" "${{ github.repository_owner }}"
         env:
           GITHUB_TOKEN: ${{ secrets.MY_BADGES_TOKEN }}
