@@ -35,7 +35,7 @@ jobs:
           base_indepth: yes
           repositories: 200
           repositories_batch: 100
-          repositories_owned: no
+          repositories_owned: yes
           repositories_affiliations: ""
           repositories_skipped: ${{ vars.REPOSITORIES_SKIPPED }}
 
