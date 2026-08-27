@@ -115,16 +115,13 @@
 <a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
 <!-- my-badges end -->
 </details>
-
+<!-- 
 <details>
   <summary>Data access (bots / crawlers)</summary>
-
   <p>
     This dataset is available for programmatic access. Automated clients should request access before use.
   </p>
-
   <p>Available endpoints:</p>
-
   <ul>
     <li>
       <a href="https://data.ajmalshajahan.me/api/data?source=github-profile">
@@ -147,9 +144,7 @@
       </a>
     </li>
   </ul>
-
   <p>See API documentation for schema and pagination details.</p>
-
   <p>
     Request access form:
     <br>
@@ -157,10 +152,9 @@
       https://forms.gle/Q36WXDTnfQsYFxZb7
     </a>
   </p>
-
   <p>
     Unauthorized automated access may be monitored, rate-limited, or blocked.
   </p>
-</details>
+</details> -->
 
 ![ ](https://hit.yhype.me/github/profile?account_id=23806715)
