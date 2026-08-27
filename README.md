@@ -5,6 +5,7 @@
 # Metrics
 
 ## Coding time
+
 [![wakatime](https://wakatime.com/badge/user/d6af41fb-3af6-48af-aac9-471852fa37ee.svg?style=flat-square&color=b7bdf8")](https://wakatime.com/@d6af41fb-3af6-48af-aac9-471852fa37ee)
 [<img alt="Today" src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/AjmalShajahan/interval:today&label=today&style=flat-square&color=b7bdf8">](#)
 [<img alt="7 Days" src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/AjmalShajahan/interval:7_days&label=last%207d&style=flat-square&color=b7bdf8">](#)
