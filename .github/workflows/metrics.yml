@@ -31,7 +31,7 @@ jobs:
           commits_authoring: ${{ vars.COMMITS_AUTHORING }}
 
           # Base
-          base: header, activity, metadata #, community, repositories,
+          base: header, activity, community, repositories, metadata
           base_indepth: yes
           repositories: 200
           repositories_batch: 100
@@ -92,10 +92,10 @@ jobs:
           plugin_notable_skipped: ${{ vars.PLUGIN_NOTABLE_SKIPPED }}
 
           # Optional plugins
-          # plugin_isocalendar: yes
-          # plugin_topics: yes
-          # plugin_followup: yes
-          # plugin_followup_sections: user, repositories
-          # plugin_followup_indepth: yes
+          plugin_isocalendar: yes
+          plugin_topics: yes
+          plugin_followup: yes
+          plugin_followup_sections: user, repositories
+          plugin_followup_indepth: yes
           # plugin_followup_archived: no
           # debug: yes
