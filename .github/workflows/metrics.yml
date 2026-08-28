@@ -95,7 +95,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_topics: yes
           plugin_followup: yes
-          plugin_followup_sections: user, repositories
+          plugin_followup_sections: repositories # user, 
           plugin_followup_indepth: yes
           # plugin_followup_archived: no
           # debug: yes
