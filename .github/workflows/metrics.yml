@@ -3,8 +3,8 @@ name: Metrics
 on:
   workflow_dispatch:
   schedule:
-    # Every Monday at 06:00 UTC
-    - cron: "0 6 * * 1"
+    # Every day at 06:00 UTC
+    - cron: "0 6 * * *"
   push:
     branches: ["main", "test"]
     paths:
