@@ -3,8 +3,8 @@ name: my-badges
 on:
   workflow_dispatch:
   schedule:
-    # Every day at 00:00 UTC
-    - cron: "0 0 * * *"
+    # Every day at 11:43 UTC
+    - cron: "43 11 * * *"
   push:
     branches: ["main", "test"]
     paths:
