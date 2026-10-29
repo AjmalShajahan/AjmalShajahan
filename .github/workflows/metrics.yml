@@ -47,10 +47,10 @@ jobs:
           plugin_languages_skipped: ${{ vars.PLUGIN_LANGUAGES_SKIPPED }}
           plugin_languages_ignored: ${{ vars.PLUGIN_LANGUAGES_IGNORED }}
           plugin_languages_limit: 8
-          plugin_languages_recent_days: 7
-          plugin_languages_recent_load: 300
-          plugin_languages_analysis_timeout: 30
-          plugin_languages_analysis_timeout_repositories: 10
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 500
+          plugin_languages_analysis_timeout: 60
+          plugin_languages_analysis_timeout_repositories: 15
           # plugin_languages_threshold: 10
 
           # Lines of code
