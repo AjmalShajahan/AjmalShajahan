@@ -15,7 +15,7 @@ permissions:
 
 jobs:
   my-badges:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-26.04
 
     steps:
       - name: Checkout my-badges fork
